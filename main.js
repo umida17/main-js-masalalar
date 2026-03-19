@@ -29,3 +29,19 @@
 // for (let i = 0; i < names.length; i++) {
 //   console.log(names[i]);
 // }
+
+
+// 5.masala
+
+
+// let nums = [3, 9, 1, 12, 5];
+
+// let max = nums[0];
+
+// for (let i = 1; i < nums.length; i++) {
+//   if (nums[i] > max) {
+//     max = nums[i];
+//   }
+// }
+
+// console.log(max);
