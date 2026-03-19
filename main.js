@@ -45,3 +45,12 @@
 // }
 
 // console.log(max);
+
+
+// 6.masala
+
+// let nums = [3, 6, 8, 11, 14, 19];
+//  let evenumber = nums.filter(function(num){
+//     return num % 2 === 0;
+//  })
+//  console.log(evenumber);
