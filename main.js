@@ -63,3 +63,10 @@
 
 
 // console.log(fruits);
+
+
+// 8.masala
+
+// let cars = ["BMW", "Audit"];
+//  cars.push("Mercedes")
+//  console.log(cars);
