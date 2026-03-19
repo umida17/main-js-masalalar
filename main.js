@@ -95,3 +95,6 @@
 //     return nam < -2
 // })
 // console.log(numbers);
+
+
+// 12.masala
