@@ -20,3 +20,12 @@
 // let cities = ["Tashkent", "Samarqand"];
 //  cities.push("Bukhara")
 //  console.log(cities);
+
+
+
+// 4.masala
+
+// let names = ["ali", "vali", "hasan"];
+// for (let i = 0; i < names.length; i++) {
+//   console.log(names[i]);
+// }
