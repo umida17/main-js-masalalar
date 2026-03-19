@@ -70,3 +70,10 @@
 // let cars = ["BMW", "Audit"];
 //  cars.push("Mercedes")
 //  console.log(cars);
+
+
+// 9.masala
+
+// let words = ["Hello", "world"];
+//  let word =words.join("  ")
+// console.log(word);
