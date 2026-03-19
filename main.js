@@ -86,3 +86,12 @@
 //     return num > 10
 // })
 // console.log(hasnumber);
+
+
+// 11. masala
+
+// let nums = [4, 7, 9, -2];
+// let numbers = nums.every(function(nam){
+//     return nam < -2
+// })
+// console.log(numbers);
