@@ -98,3 +98,7 @@
 
 
 // 12.masala
+
+// let colors = ["red", "green", "blue", "yellow"];
+// colors.splice(1, 1)
+// console.log(colors);
