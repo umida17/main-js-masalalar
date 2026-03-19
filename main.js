@@ -7,3 +7,16 @@
 // console.log(numbers.length);
 
 // 2.masala
+
+// let fruits = ["apple", "banana", "orange"];
+// let lastElement = fruits[fruits.length - 1];
+
+// console.log(lastElement);
+
+
+
+// 3.masala
+
+// let cities = ["Tashkent", "Samarqand"];
+//  cities.push("Bukhara")
+//  console.log(cities);
