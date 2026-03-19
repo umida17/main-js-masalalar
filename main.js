@@ -77,3 +77,12 @@
 // let words = ["Hello", "world"];
 //  let word =words.join("  ")
 // console.log(word);
+
+
+// 10.masala
+
+// let nums = [3, 5, 12, 8];
+// let hasnumber = nums.some(function(num){
+//     return num > 10
+// })
+// console.log(hasnumber);
