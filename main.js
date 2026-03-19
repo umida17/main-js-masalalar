@@ -54,3 +54,12 @@
 //     return num % 2 === 0;
 //  })
 //  console.log(evenumber);
+
+
+// 7.masala
+
+// let fruits = ["apple", "banana", "orange"];
+//  fruits.shift('apple')
+
+
+// console.log(fruits);
